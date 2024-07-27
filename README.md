@@ -1,7 +1,7 @@
 # Knowledge_Retrieval_System
 
 ### To run the code
-- On your terminal put `python3 app_faiss.py`
+- On your terminal run the command `python3 app_faiss.py`
 
 ### Description
 - The code generates answers to queries based on a particular knowledge base using a transformer model and efficient searching using the faiss vector database.
