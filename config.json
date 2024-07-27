@@ -1,0 +1,6 @@
+{
+    "model_path": "Alibaba-NLP/gte-large-en-v1.5",
+    "max_length": 8192,
+    "port": 5000,
+    "debug": true
+}
